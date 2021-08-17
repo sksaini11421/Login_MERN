@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.user {
+    width: 100%;
+    max-width: 34rem;
+    margin: 10vh auto;
+}
